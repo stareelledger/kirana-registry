@@ -1,0 +1,1 @@
+create table IF NOT EXISTS transactions(ID int primarykey, user varchar, amount int, currencyType varchar, transactionType varchar, transactionDate date);
